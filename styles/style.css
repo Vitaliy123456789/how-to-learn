@@ -217,13 +217,14 @@ width: 877px;
 height: 877px;
 right: -210px;
 }
-.tabel_theme_dark{
-  z-index: 1;;
-}
+
 .section-subtitle_theme_dark{
   z-index: 1;
 }
 .section-title_theme_dark{
+  z-index: 1;
+}
+.tabel_theme_dark{
   z-index: 1;
 }
 .footer{
