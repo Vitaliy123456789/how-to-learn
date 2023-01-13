@@ -1,7 +1,7 @@
-.resources{
-  padding-top: 100px;
+.digits{
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-}
+  padding-top: 100px;
+  padding-bottom: 100px;
+ }
