@@ -1,8 +1,8 @@
 .resources__link{
-font-weight: normal;
-text-decoration: none;
-transition: opacity 0.5s;
+  font-weight: normal;
+  text-decoration: none;
+  transition: opacity 0.5s;
 }
 .resources__link:hover{
-opacity: 0.5;
+  opacity: 0.5;
 }
